@@ -184,12 +184,16 @@ SECCIÓN: INFORMACIÓN DE CONTACTO
 ===========================================
 -->
 
+<div align=center>
+  
 ### 🔗 Contact Me
 
 <!-- LinkedIn - Red social profesional principal -->
 <a href="https://www.linkedin.com/in/monserrat-guadalupe-casta%C3%B1on-sanchez-28653a351?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
-  <img align="left" alt="Sanskar's LinkedIn" width="24px" src="https://img.icons8.com/nolan/96/linkedin.png" /> 
+  <img align="center" alt="Sanskar's LinkedIn" width="24px" src="https://img.icons8.com/nolan/96/linkedin.png" /> 
 </a>
+
+</div>
 
 <!-- FOOTER DECORATIVO -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=footer"/>
