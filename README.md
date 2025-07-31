@@ -190,14 +190,6 @@ SECCIÓN: INFORMACIÓN DE CONTACTO
 <a href="https://www.linkedin.com/in/monserrat-guadalupe-casta%C3%B1on-sanchez-28653a351?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
   <img align="left" alt="Sanskar's LinkedIn" width="24px" src="https://img.icons8.com/nolan/96/linkedin.png" /> 
 </a>
-<!-- Instagram - Contenido visual y personal -->
-<a href="https://www.instagram.com/j.sanskarr/"><span width></span>
-  <img align="left" alt="Sanskar's Instagram" width="24px" src="https://img.icons8.com/nolan/96/instagram-new.png" />
-</a>
-<!-- Twitter - Comunidad tech y actualizaciones -->
-<a href="https://twitter.com/TitanWithKagune">
-  <img align="left" alt="Sanskar's Twitter" width="24px" src="https://img.icons8.com/nolan/96/twitter.png" />
-</a><br>
 
 <!-- FOOTER DECORATIVO -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=footer"/>
