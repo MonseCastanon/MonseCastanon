@@ -82,7 +82,7 @@ SECCIÓN: HABILIDADES TÉCNICAS
   <img src="https://img.shields.io/badge/-IntelliJ IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white&labelColor=282828">
   <br><br><!-- Segunda fila -->
   <img src="https://img.shields.io/badge/-Android Studio-4EAA25?style=for-the-badge&logo=androidstudio&logoColor=white&labelColor=282828"> &nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-Arduino IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white&labelColor=282828"> &nbsp;&nbsp;&nbsp;
+  <!-- <img src="https://img.shields.io/badge/-Arduino IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white&labelColor=282828"> &nbsp;&nbsp;&nbsp; -->
   <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=FF6C37&labelColor=282828"> &nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=85EA2D&labelColor=282828">
 </p>
