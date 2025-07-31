@@ -19,7 +19,7 @@ PERFIL DE GITHUB - MONSE CASTAÑON
 <!-- SECCIÓN: INFORMACIÓN PERSONAL -->
 - 🎓 I'm a **Software Engineering student** passionate about learning and growing in the tech industry.
 - 🌱 I'm currently learning **Jetpack Compose, Spring Boot, and building scalable Android apps**.
-- 🛠️ Technologies I enjoy working with: **Java, Kotlin, Python, MongoDB, Spring Boot, PostgreSQL.**
+- 🛠️ I enjoy working with technologies like: **Java, Kotlin, Python, MongoDB, Spring Boot, PostgreSQL.**
 - 🚀 I'm always looking to **contribute to projects and expand my knowledge.**
 
 <br>
@@ -99,22 +99,22 @@ SECCIÓN: HABILIDADES TÉCNICAS
 </p>
 <br>
 
----
-
 <!-- 
 ===========================================
 SECCIÓN: PROYECTOS DESTACADOS
 ===========================================
 -->
+
+<!--
 ## 📊 Projects
 
 <div align=center>
-  <!-- Proyecto 1: CRUD Dulceria - Sistema de gestión -->
+  <!-- Proyecto 1: CRUD Dulceria - Sistema de gestión --
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=MonseCastanon&repo=CRUD_Dulceria&theme=tokyonight" /> &nbsp;&nbsp;&nbsp;
-  <!-- Proyecto 2: Instrumento Torres - Aplicación especializada -->
+  <!-- Proyecto 2: Instrumento Torres - Aplicación especializada --
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=MonseCastanon&repo=InstrumetoTorresMonseCS&theme=tokyonight" />
 </div> 
-<br>
+<br> -->
 
 <!-- 
 ===========================================
