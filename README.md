@@ -82,9 +82,10 @@ SECCIÓN: HABILIDADES TÉCNICAS
   <img src="https://img.shields.io/badge/-IntelliJ IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white&labelColor=282828">
   <br><br><!-- Segunda fila -->
   <img src="https://img.shields.io/badge/-Android Studio-4EAA25?style=for-the-badge&logo=androidstudio&logoColor=white&labelColor=282828"> &nbsp;&nbsp;&nbsp;
-  <!-- <img src="https://img.shields.io/badge/-Arduino IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white&labelColor=282828"> &nbsp;&nbsp;&nbsp; -->
   <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=FF6C37&labelColor=282828"> &nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=85EA2D&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=85EA2D&labelColor=282828"> &nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira&logoColor=0052CC&labelColor=282828"> &nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-Click Up-7F52FF?style=for-the-badge&logo=clickup&logoColor=7F52FF&labelColor=282828">
 </p>
 <br>
 
@@ -94,8 +95,6 @@ SECCIÓN: HABILIDADES TÉCNICAS
   <img src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=282828"> &nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-Jetpack Compose-4285F4?style=for-the-badge&logo=android&logoColor=white&labelColor=282828"> &nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=282828"> &nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira&logoColor=0052CC&labelColor=282828"> &nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-Click Up-7F52FF?style=for-the-badge&logo=clickup&logoColor=7F52FF&labelColor=282828">
 </p>
 <br>
 
