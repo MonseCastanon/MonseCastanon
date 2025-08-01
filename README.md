@@ -127,7 +127,11 @@ SECCIÓN: ESTADÍSTICAS DE GITHUB
 <div align=center>
 
 ![Github Statics](https://github-readme-stats.vercel.app/api?username=MonseCastanon&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true&rank_icon=percentile)
-<br>
+</div>
+
+<div align=center>
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MonseCastanon&theme=dracula&background=1E2B3C&border=B2E0FF&stroke=000439&ring=95CCFF&fire=95CCFF&currStreakNum=95CCFF&sideNums=95CCFF&currStreakLabel=95CCFF&sideLabels=95CCFF&dates=FFFFFF)](https://git.io/streak-stats)
 
 </div>
 
