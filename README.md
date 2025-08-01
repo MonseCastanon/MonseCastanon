@@ -67,7 +67,7 @@ SECCIÓN: HABILIDADES TÉCNICAS
   <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=282828">
   <br><br><!-- Segunda fila -->
   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=47A248&labelColor=282828"> &nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-SQL Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Microsoft SQL Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white&labelColor=282828">
 </p>
 <br>
 
